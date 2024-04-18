@@ -19,7 +19,7 @@ module.exports = {
   modules: ['../lib/module', './modules/generate', 'nuxt-buefy'],
   ghost: {
     url: 'https://cms.057000.xyz',
-    key: '37b95fc0a44a46a3abaedd15bf',
+    key: '37b95fcedd15bf',
     version: 'v4',
   },
   dev: process.env.NODE_ENV !== 'test' && process.env.NODE_ENV === 'production',
