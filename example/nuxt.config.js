@@ -18,8 +18,8 @@ module.exports = {
   ],
   modules: ['../lib/module', './modules/generate', 'nuxt-buefy'],
   ghost: {
-    url: 'https://demo.ghost.io',
-    key: '22444f78447824223cefc48062',
+    url: 'https://cms.057000.xyz',
+    key: '37b95fc0a44a46a3abaedd15bf',
     version: 'v4',
   },
   dev: process.env.NODE_ENV !== 'test' && process.env.NODE_ENV === 'production',
